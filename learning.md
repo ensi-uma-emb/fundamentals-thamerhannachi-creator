@@ -1,4 +1,11 @@
-\# My Learning Journal  — Thamer Hannachi
+\####################################
+
+\#### ✅ Status: Lab 0 Complete! ####
+
+\####################################
+
+
+# My Learning Journal  — Thamer Hannachi
 
 
 
